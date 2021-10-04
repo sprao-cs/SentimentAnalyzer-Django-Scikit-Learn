@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif, Arial, Helvetica;
+}
+
+.card {
+    box-shadow: 0 0 10px 0 rgb(128, 128, 128);
+}
+
+.result-card {
+    height: 300px;
+    background-color: aqua;
+
+}
