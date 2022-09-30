@@ -9,7 +9,7 @@ djangorestframework==3.12.4
 idna==3.2
 imageio==2.9.0
 imageio-ffmpeg==0.4.5
-joblib==1.0.1
+joblib==1.2.0
 moviepy==1.0.3
 nltk==3.6.6
 numpy==1.21.0
